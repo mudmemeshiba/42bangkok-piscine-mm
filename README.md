@@ -20,4 +20,4 @@
 
 - exam00: 20% | exam01: 20% | exam02: 40% | final exam: 24%
 
-### This piscine made me qualified into the 42curriculum as a cadet, but I've decided to pursue on another journey :)
+#### This piscine made me qualified into the 42curriculum as a cadet, but I've decided to pursue on another journey :)
